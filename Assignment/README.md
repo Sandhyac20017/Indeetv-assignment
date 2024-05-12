@@ -2,21 +2,43 @@
 
 To run this code, please follow the steps below:
 
-- Clone the project from GitHub or from the google drive 
-- Open your terminal using the shortcut `Ctrl + Shift + `.
-- Use the following commands to set up and run the code:
-
-npm install 
-
-npm run dev
+1. Make sure you have Node.js and npm installed.
+2. Clone this repository.
+3. Navigate to the project directory in your terminal or  Open your terminal using the shortcut `Ctrl + Shift + `.
+4. Use the following commands to set up and run the code:
 
 
+       Run `npm install` to install the dependencies.
+       Run `npm run dev` to start the development server.
 
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended IDE Setup
+# Vue.js Login Page
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+This project implements a simple login page using Vue.js and Vue Router.
+
+
+## Usage
+
+Once the development server is running, you can access the login page in your web browser. Enter your email and password to sign in. You can also click on "Forgot Password?" to reset your password.
+
+## File Structure
+
+- `src/`
+  - `router/`: Contains the Vue Router configuration.
+  - `App.vue`: The root Vue component.
+  - `main.js`: Entry point of the application.
+  - `Login,vue`:
+
+
+
+## Demo
+
+
+
+
+## Dependencies
+
+- Vue.js
+- Vue Router
 
