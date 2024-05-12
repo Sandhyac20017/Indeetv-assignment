@@ -28,13 +28,16 @@ Once the development server is running, you can access the login page in your we
   - `router/`: Contains the Vue Router configuration.
   - `App.vue`: The root Vue component.
   - `main.js`: Entry point of the application.
-  - `Login,vue`:component would contain the login form template, script, and styles,
+  - `Login_indee.vue`:component would contain the login form template, script, and styles,
   - `Terms.vue`: component would similarly contain the terms and conditions page template, script, and styles.
 
 
 
 ## Demo
 
+You can view a live demo of the login page 
+
+https://github.com/Sandhyac20017/Indeetv-assignment/issues/1
 
 
 
